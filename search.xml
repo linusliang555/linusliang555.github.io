@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>你好世界</title>
+      <link href="/2024/08/16/hello-world/"/>
+      <url>/2024/08/16/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>欢迎来到 <a href="https://hexo.io/">Hexo</a>! 这是你的第一篇文章。 有关详细信息，请查看<a href="https://hexo.io/docs/">文档</a> 如果你在使用 Hexo 时遇到任何问题, 你可以在 <a href="https://hexo.io/docs/troubleshooting.html">故障排除</a>中找到答案，或者你可以在 <a href="https://github.com/hexojs/hexo/issues">GitHub</a> 上问我。</p><h2 id="快速上手"><a href="#快速上手" class="headerlink" title="快速上手"></a>快速上手</h2><h3 id="创建新帖子"><a href="#创建新帖子" class="headerlink" title="创建新帖子"></a>创建新帖子</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/writing.html">写作</a></p><h3 id="运行服务器"><a href="#运行服务器" class="headerlink" title="运行服务器"></a>运行服务器</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>详细信息： <a href="https://hexo.io/docs/server.html">服务器</a></p><h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>详细信息： <a href="https://hexo.io/docs/generating.html">生成</a></p><h3 id="部署到远程站点"><a href="#部署到远程站点" class="headerlink" title="部署到远程站点"></a>部署到远程站点</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>详细信息： <a href="https://hexo.io/docs/one-command-deployment.html">部署</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>最炸裂的一次</title>
+      <link href="/2024/08/15/%E6%9C%80%E7%82%B8%E8%A3%82%E7%9A%84%E4%B8%80%E6%AC%A1/"/>
+      <url>/2024/08/15/%E6%9C%80%E7%82%B8%E8%A3%82%E7%9A%84%E4%B8%80%E6%AC%A1/</url>
+      
+        <content type="html"><![CDATA[<h3 id="一开始水友给我发了张图"><a href="#一开始水友给我发了张图" class="headerlink" title="一开始水友给我发了张图"></a>一开始水友给我发了张图</h3><p><img src="https://telegraph-image.azaz.dns-dynamic.net/api/file/e4093a89bd74f9a5935b4.png" alt="undefined"></p><h3 id="他说"><a href="#他说" class="headerlink" title="他说"></a>他说</h3><p><img src="https://telegraph-image.azaz.dns-dynamic.net/api/file/d0b75c5abe6b24ff7237e.png" alt="undefined"></p><h3 id="wc，一堆蜘蛛叠在一起，占用了刷怪上限，后面解决了"><a href="#wc，一堆蜘蛛叠在一起，占用了刷怪上限，后面解决了" class="headerlink" title="wc，一堆蜘蛛叠在一起，占用了刷怪上限，后面解决了"></a>wc，一堆蜘蛛叠在一起，占用了刷怪上限，后面解决了</h3>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> minceraft </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
