@@ -4,13 +4,19 @@
   
     
     <entry>
-      <title>你好世界</title>
-      <link href="/2024/08/16/hello-world/"/>
-      <url>/2024/08/16/hello-world/</url>
+      <title>有点抽象</title>
+      <link href="/2024/09/17/az/"/>
+      <url>/2024/09/17/az/</url>
       
-        <content type="html"><![CDATA[<p>欢迎来到 <a href="https://hexo.io/">Hexo</a>! 这是你的第一篇文章。 有关详细信息，请查看<a href="https://hexo.io/docs/">文档</a> 如果你在使用 Hexo 时遇到任何问题, 你可以在 <a href="https://hexo.io/docs/troubleshooting.html">故障排除</a>中找到答案，或者你可以在 <a href="https://github.com/hexojs/hexo/issues">GitHub</a> 上问我。</p><h2 id="快速上手"><a href="#快速上手" class="headerlink" title="快速上手"></a>快速上手</h2><h3 id="创建新帖子"><a href="#创建新帖子" class="headerlink" title="创建新帖子"></a>创建新帖子</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/writing.html">写作</a></p><h3 id="运行服务器"><a href="#运行服务器" class="headerlink" title="运行服务器"></a>运行服务器</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>详细信息： <a href="https://hexo.io/docs/server.html">服务器</a></p><h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>详细信息： <a href="https://hexo.io/docs/generating.html">生成</a></p><h3 id="部署到远程站点"><a href="#部署到远程站点" class="headerlink" title="部署到远程站点"></a>部署到远程站点</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>详细信息： <a href="https://hexo.io/docs/one-command-deployment.html">部署</a></p>]]></content>
+        <content type="html"><![CDATA[<h3 id="这个hexo会说see-you-again，让我不禁想起了牢大，"><a href="#这个hexo会说see-you-again，让我不禁想起了牢大，" class="headerlink" title="这个hexo会说see you again，让我不禁想起了牢大，"></a>这个hexo会说see you again，让我不禁想起了牢大，</h3><p><img src="https://telegraph-image.azaz.dns-dynamic.netundefined/" alt="526742fd-c84a-42e5-9fa5-e1167c00d364.png"></p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
       
     </entry>
     
@@ -30,6 +36,19 @@
             <tag> minceraft </tag>
             
         </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>你好世界</title>
+      <link href="/1970/01/01/hello-world/"/>
+      <url>/1970/01/01/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>欢迎来到 <a href="https://hexo.io/">Hexo</a>! 这是你的第一篇文章。 有关详细信息，请查看<a href="https://hexo.io/docs/">文档</a> 如果你在使用 Hexo 时遇到任何问题, 你可以在 <a href="https://hexo.io/docs/troubleshooting.html">故障排除</a>中找到答案，或者你可以在 <a href="https://github.com/hexojs/hexo/issues">GitHub</a> 上问我。</p><h2 id="快速上手"><a href="#快速上手" class="headerlink" title="快速上手"></a>快速上手</h2><h3 id="创建新帖子"><a href="#创建新帖子" class="headerlink" title="创建新帖子"></a>创建新帖子</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/writing.html">写作</a></p><h3 id="运行服务器"><a href="#运行服务器" class="headerlink" title="运行服务器"></a>运行服务器</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>详细信息： <a href="https://hexo.io/docs/server.html">服务器</a></p><h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>详细信息： <a href="https://hexo.io/docs/generating.html">生成</a></p><h3 id="部署到远程站点"><a href="#部署到远程站点" class="headerlink" title="部署到远程站点"></a>部署到远程站点</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>详细信息： <a href="https://hexo.io/docs/one-command-deployment.html">部署</a></p>]]></content>
+      
+      
       
     </entry>
     
